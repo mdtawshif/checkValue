@@ -1,0 +1,13 @@
+.container{
+    text-align: center;
+    padding-top: 20px;
+}
+.numberField{
+    width: 100px;
+    height: 50px;
+    margin-top: 40px;
+}
+.error{
+    color: red;
+    display: none;
+}
